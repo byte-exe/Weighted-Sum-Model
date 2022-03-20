@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:id_surat;datatype:int,name:wilayah;datatype:string,name:cabang;datatype:string,name:norujukan;datatype:string,name:fktp;datatype:string,name:kabupaten;datatype:string,name:kepada;datatype:string,name:di;datatype:string,name:nama;datatype:string,name:nobpjs;datatype:string,name:diagnosa;datatype:string,name:diberikan;datatype:string,name:umur;datatype:int,name:stt;datatype:int,name:tahun;datatype:date,name:jk;datatype:string,name:catatan;datatype:blob,name:alasan;datatype:blob,name:tglberkunjung;datatype:date,name:jadwal;datatype:string,name:namadokter;datatype:string" />
+</info>
